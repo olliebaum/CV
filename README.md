@@ -23,7 +23,7 @@ I love to learn. After an extreme teenage envy of a friend's talent on piano, I 
 
 #### Makers
 
-These were all projects undertaken at Makers' Academy in groups of 4 using an Agile workflow, involving 2 day sprints. They are test driven and 
+These were all projects undertaken at Makers' Academy either solo or in groups of 4 using an Agile workflow involving 2 day sprints. They are also fully test-driven.
 
 
 
